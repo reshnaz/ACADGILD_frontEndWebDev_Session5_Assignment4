@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* Here we create a global style of white background for body */
+body{
+    background: white;
+}

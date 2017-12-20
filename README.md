@@ -1,5 +1,13 @@
 # S5A4
 
+## Problem Statement
+1. In style.css add style for body and give it a background colour of white
+2. In a newly created component add a style of body and give it a background colour
+of red.
+3. In newly created component add a ViewEncapsulation metadata in the
+@Component.
+4. Now try changing the property for the ViewEncapsulation.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
 ## Development server
